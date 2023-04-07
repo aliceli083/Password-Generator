@@ -10,6 +10,8 @@ This project involves finishing a JavaScript starter code for a random number/pa
 ![Screenshot 2023-04-06 185831](https://user-images.githubusercontent.com/127727591/230525173-89eddebe-cfb7-4adb-9eda-29af00983142.png)
 
 [Link to live-site](https://aliceli083.github.io/Password-Generator/)
+
+
 [Link to repo](https://github.com/aliceli083/Password-Generator)
 
 ## Liscence
